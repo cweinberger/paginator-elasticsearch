@@ -12,10 +12,8 @@ let package = Package(
     ],
     dependencies: [
 
-        // Using my fork until new release (0.1.0) has been created by ryan.
-//        .package(url: "https://github.com/ryangrimm/VaporElasticsearch.git", .upToNextMinor(from: "0.1.0"))
-        .package(url: "https://github.com/cweinberger/VaporElasticsearch.git", .upToNextMinor(from: "0.1.0")),
-        .package(url: "https://github.com/nodes-vapor/paginator.git", .revision("945cf5a568bbf0a423f2e43a9b5300f03c7efd60"))
+        .package(url: "https://github.com/ryangrimm/VaporElasticsearch.git", .upToNextMinor(from: "0.1.0")),
+        .package(url: "https://github.com/nodes-vapor/paginator.git", from: "3.0.0-beta")
     ],
     targets: [
         .target(

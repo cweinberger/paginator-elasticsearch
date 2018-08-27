@@ -6,8 +6,8 @@
         "repositoryURL": "https://github.com/vapor/auth.git",
         "state": {
           "branch": null,
-          "revision": "8c783272bbef7490781e0879ae5e9b5ceced0ec0",
-          "version": "2.0.0-rc.5"
+          "revision": "90868627c7587ea207c0b6d4054265e68f6a33ef",
+          "version": "2.0.1"
         }
       },
       {
@@ -60,8 +60,8 @@
         "repositoryURL": "https://github.com/vapor/http.git",
         "state": {
           "branch": null,
-          "revision": "8123ea00e9858b369cd168d0303d33e7d3804d19",
-          "version": "3.0.7"
+          "revision": "0fac5c7c9ab1e424621ba001d83cb59ffca99ad2",
+          "version": "3.1.1"
         }
       },
       {
@@ -69,8 +69,8 @@
         "repositoryURL": "https://github.com/vapor/jwt.git",
         "state": {
           "branch": null,
-          "revision": "de0dc5bbba60250c24c5c4b4d2505d7a71dd03ae",
-          "version": "3.0.0-rc.2.1.2"
+          "revision": "2e225c722bf26407c1c4bd11d341e48759f46095",
+          "version": "3.0.0"
         }
       },
       {
@@ -78,8 +78,8 @@
         "repositoryURL": "https://github.com/vapor/leaf.git",
         "state": {
           "branch": null,
-          "revision": "a71cb0cd29ec88ee72baa00668c05e327114f27c",
-          "version": "3.0.0-rc.2.2"
+          "revision": "fc6a3938b1c7cfa49dc6b06e54d84179bdf92810",
+          "version": "3.0.1"
         }
       },
       {
@@ -97,7 +97,7 @@
         "state": {
           "branch": null,
           "revision": "945cf5a568bbf0a423f2e43a9b5300f03c7efd60",
-          "version": null
+          "version": "3.0.0-beta.1"
         }
       },
       {
@@ -105,8 +105,8 @@
         "repositoryURL": "https://github.com/vapor/redis.git",
         "state": {
           "branch": null,
-          "revision": "80c9032c70eddb7df5ffb28eddf4237ff3415ae8",
-          "version": "3.0.0-rc.5"
+          "revision": "7ad1ad7715a90c468cc4fcf427f21635f8e8879e",
+          "version": "3.0.0"
         }
       },
       {
@@ -141,8 +141,8 @@
         "repositoryURL": "https://github.com/nodes-vapor/sugar.git",
         "state": {
           "branch": null,
-          "revision": "1e19ece5ba23abe90a05faabeca3393b0b04022a",
-          "version": "3.0.0-beta.11"
+          "revision": "ab98a6400524ce8b7d94365f0795c85f303c2ff3",
+          "version": "3.0.0-beta.13"
         }
       },
       {
@@ -150,8 +150,8 @@
         "repositoryURL": "https://github.com/apple/swift-nio.git",
         "state": {
           "branch": null,
-          "revision": "c6acf77fc9a310c0ebf8d5f73f285d1639801d2f",
-          "version": "1.9.0"
+          "revision": "cf08e673dc41dc63d34065234c8fc432e8d334c4",
+          "version": "1.9.2"
         }
       },
       {
@@ -186,8 +186,8 @@
         "repositoryURL": "https://github.com/vapor/template-kit.git",
         "state": {
           "branch": null,
-          "revision": "43b57b5861d5181b906ac6411d28645e980bb638",
-          "version": "1.0.1"
+          "revision": "db35b1c35aabd0f5db3abca0cfda7becfe9c43e2",
+          "version": "1.1.0"
         }
       },
       {
@@ -204,8 +204,8 @@
         "repositoryURL": "https://github.com/vapor/validation.git",
         "state": {
           "branch": null,
-          "revision": "ab6c5a352d97c8687b91ed4963aef8e7cfe0795b",
-          "version": "2.0.0"
+          "revision": "156f8adeac3440e868da3757777884efbc6ec0cc",
+          "version": "2.1.0"
         }
       },
       {
